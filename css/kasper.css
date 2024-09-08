@@ -978,7 +978,8 @@ q::after {
   position: relative;
 }
 .footer img {
-  margin-bottom: 15px;
+  width: 60px;
+  height: 60px;
 }
 .footer p:not(.copyright) {
   text-transform: uppercase;
